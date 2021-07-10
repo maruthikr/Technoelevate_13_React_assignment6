@@ -1,0 +1,15 @@
+.hero{
+    background-color: rgb(215, 224, 224);
+    margin: 50px;
+    text-align: center;
+    font-family: serif;
+}
+.card-horizontal {
+    display: flex;
+    
+  }
+  .img-square-wrapper{
+      margin: 100px;
+      width: 50px;
+      height: 100px;
+  }
